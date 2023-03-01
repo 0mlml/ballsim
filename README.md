@@ -1,5 +1,3 @@
-# Simple ball simulation in JavaScript
+# Simple ball simulation in C
 ### Controls
-- Mouse1: drag
-- Mouse2: remove ball
-- Mouse3: add ball
+ - None
